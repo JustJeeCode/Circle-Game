@@ -5,10 +5,6 @@ reward = '*'
 bPiece = 'X'
 playerPos = 1
 lastPlayerPos = 0
-defBoard = [bPiece, bPiece, bPiece, bPiece,
-            bPiece, bPiece, bPiece, bPiece,
-            bPiece, bPiece, bPiece, bPiece,
-            bPiece, bPiece, bPiece, bPiece]
 
 board = [player, bPiece, bPiece, bPiece,
          bPiece, bPiece, bPiece, bPiece,
